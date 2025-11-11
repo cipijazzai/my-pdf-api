@@ -1,0 +1,6 @@
+{
+  "builds": [
+    { "src": "api/pdf.js", "use": "@vercel/node" },
+    { "src": "api/hello.js", "use": "@vercel/node" }
+  ]
+}
